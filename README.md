@@ -19,10 +19,7 @@ The [conference website](https://www.asm.org/Events/ASM-NGS/Home) contains all s
 
 If you need to get in touch with the organizers at any time, you have multiple options. You can tweet at or email this year's meeting chairs – **Ruth Timme ([twitter](http://www.twitter.com/doctorruth) | [email](mailto:ruth.timme@fda.hhs.gov)) and Elodie Ghedin ([twitter](http://www.twitter.com/@eghedin) | [email](mailto:elodie.ghedin@nih.gov)).**  You can also open a new issue in this repo, or you can contact the wonderful ASM Conferences team through the meeting website.
 
-# 2. Schedule & Presentations <a id="two" />
-**We are encouraging speakers and poster presenters to make their materials available online.** There are multiple avenues for doing so, including Google Drive, Slideshare, figshare,  F1000 Posters, and many more. The schedule below will be updated with links to slides as they are made available, and below the schedule is a list of posters that authors have placed online. Speaker name links go to Twitter profiles; talk title links go to slide files. **If we're missing important links or useful supplemental materials, please let us know (or feel free to submit a pull request)**. 
-
-Our default **social media policy** is that *anything said by a speaker is fair game for tweeting and live note-taking unless the speaker states otherwise*. We encourage speakers to indicate which slides, if any, should not be tweeted about or noted in the online notes. If you are planning to tweet about a poster, please ask permission of the poster presenter first.
+# 2. Tenative Schedule<a id="two" />
 
 ## Sunday, October 16, 2022 <a id="sunday" />
 ### Opening Plenary and reception (17:00h-21:00h GMT-5)
@@ -33,89 +30,17 @@ Our default **social media policy** is that *anything said by a speaker is fair 
 #### Bridging Silos: Exploring mechanisms for collecting and sharing microbial genomic data to foster interoperability
 ### Poster session (evening)
 
-> Genomic sequencing and molecular epidemiology are indispensable tools for clinical reference diagnostics, public health surveillance outbreak detection and response.  This session will discuss how sequencing is being used in clinical and public health microbiology, and the challenges and successes in implementing these technologies successfully in routine and standard practice.
+## Tuesday, October 18, 2020 <a id="tuesday" />
+### Two sessions
+#### Secret Ingredient: NGS to Uncover the Role of Microbes in Agricultural and Food Systems
+#### Microbial Chatter: Microbial ecology in health and disease
+### Poster session (evening)
 
-| Time (GMT-5) | Speaker | Affiliation | Title |
-| ------| --- | ---| ----|
-| 10:00-10:30 | Sharon Peacock | Public Health England | TBD |
-| 10:30-11:00 | [Mike Worobey](https:///www.twitter.com/michaelworobey) | University of Arizona | TBD |
-||
-| 11:00-11:15 | Oral abstract | [Mike Levandoski](https://www.twitter.com/labcorp) | Geographic and Temporal Mapping of the SARS-CoV-2 Pandemic in the United States |
-| 11:15-11:30 | Oral abstract | [Heather Blankenship](https://www.twitter.com/michiganhhs)  | Utilization of Whole Genome Sequencing of SARS-CoV-2 for Public Health Response |
-| 11:30-11:45 | Oral abstract | [Joseph Fauver](https://www.twitter.com/josephfauver) | Near real-time genomic epidemiology of the SARS-CoV-2 pandemic in Connecticut, USA |
+## Wednesday, October 19, 2020 <a id="wednesday" />
+### One session
+#### Pipe Dreams: Analytical Methods, Bioinformatic Tools and Pipelines
 
-### Featured Posters (15:30h-17:00h GMT-5)
-| Time (GMT-5) | Speaker | Affiliation | Title |
-| ------| --- | ---| ----|
-| TBD | Featured Poster | [Rebecca Rockett](https://www.twitter.com/rockett_rebecca)  (USydney) | The Powerful Duo: Synthesis of SARS-CoV-2 Genome Sequencing and Epidemiological Data for Targeted Control of COVID-19 |
-| TBD | Featured Poster | Jorge Cervantes (Texas Tech) | Genetic Identification and Drug-Resistance Characterization of Mycobacterium tuberculosis Using a Portable Sequencing Device |
-| TBD | Featured Poster | Matthias Groeschel (Harvard) | GenTB: A user-friendly online tool to predict antibiotic resistance in Mycobacterium tuberculosisusing statistical machine learning models |
-| TBD | Featured Poster | [Chunxiao Liao](https://www.twitter.com/LiaoChunxiao) (Rice) | VariPhyer: a Modular, Open-source Computational Platform for Verifying Microbial Phylogenetic and Variant Analyses |
-| TBD | Featured Poster | Mustapha Gani (UGreenwich) | Comparative metagenomic analysis of crude oil polluted, remediated and unpolluted soil samples across the Niger Delta region in Nigeria |
 
-### Pipelines to Pixels: NGS Data Integration and Visualization (17:30h-19:00h GMT-5)
-
-> Interpreting genomic data in the context of other data, like spatiotemporal or epidemiological data, is critical to translating genomic data into public health action. This session will explore approaches to and tools for integrating and visualizing data for use in decision-making.
-
-| Time | Speaker | Affiliation | Title |
-| ------| --- | ---| ----|
-| 17:30-18:00 | [Emma Hodcroft](https://www.twitter.com/firefoxx66) | University of Bern | Real-time Tracking for Real-Life Pandemics: Nextstrain & SARS-CoV-2 |
-| 18:00-18:30 | [Atul Butte]((https://www.twitter.com/atulbutte) | UCSF | TBD |
-||
-| 18:30-18:45 | Oral abstract | [Anthony Underwood](https://www.twitter.com/bioinformant)  (CGPS) | Informing public health intervention by linking and visualising SARS-CoV-2 genome sequences and COVID metadata |
-| 18:45-19:00 | Oral abstract | [Aaron Petkau](https://www.twitter.com/phac_gc) (PHAC) | [CARD:Live: A Dynamic Visualization of the Current State of Global Antimicrobial Resistance (AMR)](https://drive.google.com/file/d/17--orIvAlTb807i47HrvXUbwMo-PwjUg/view?usp=sharing) |
-
-## Wednesday, December 9, 2020 <a id="wednesday" />
-
-### Farm-to-Table: NGS in Veterinary, Food, and Environmental Microbiology (10:00h-11:30h GMT-5)
-
-> Understanding microbial diversity as it exists in the natural world, on farms, and in the built environment is critical for understanding origins of contamination events, AMR, biocide resistance and other pathogen risks. This session will highlight genomic research in veterinary, food and environmental microbiology.  
-
-| Time (GMT-5) | Speaker | Affiliation | Title |
-| ------| --- | ---| ----|
-| 10:00-10:30 | [Nathan Grubaugh](https://www.twitter.com/nathangrubaugh) | Yale School of Public Health | TBD |
-||
-| 10:30-10:45 | Oral abstract | Eva Wagner | PathoSeq: A multidisciplinary project aiming to materialize the benefits of whole genome sequencing in the food processing industry |
-| 10:45-11:00 | Oral abstract | Hanna Castro | Profiling of 553 Listeria monocytogenes genomes suggests different niche adaptations for food processing and dairy farm environments |
-| 11:00-11:15 | Oral abstract | Enrique Delgado | Genomic surveillance of Salmonellaspp. in surface waters used in agriculture and aquaculture in Mexico |
-| 11:15-11:30 | Oral abstract | Vincente Gomez-Alverez | Monitoring Your Building Water: implementing metagenomic approaches to understand the water microbiome |
-
-### Drugs & Thugs: NGS to Combat AMR  (15:30h-17:00h GMT-5)
-
-> Sequencing is providing important new insights in the emergence of antimicrobial resistance, and the risk that resistant organisms pose to humans, animals, agriculture and the environment. This session will explore new approaches for antimicrobial genotyping and the characterization of antimicrobial resistant microbial populations, and the development of new tools to improve their impact.
-
-| Time (GMT-5) | Speaker | Affiliation | Title |
-| ------| --- | ---| ----|
-| 15:30-16:00 | [Ami Bhatt](https://www.twitter.com/stanfordmed) | Stanford | TBD |
-||
-| 16:00-16:15 | Oral abstract | [Ines Mendes](https://twitter.com/ines_cim) | [Improving the Utility of Antimicrobial Resistance Gene Prediction Tools Using the PHA4GE AMR Output Specification Package](https://docs.google.com/presentation/d/e/2PACX-1vQDTTqE4YDRnMbpX3t1MamzN39Z9kWXfNLxD9BaqDuu_5BSqwp-cfWPv4rgwGleSK9p_MQBXxPHhbdw/pub?start=true&loop=true&delayms=3000) |
-| 16:15-16:30 | Oral abstract | Ivan Sserwadda  | rMAP; Rapid microbial analysis pipeline for ESKAPE bacterial group whole-genome sequence data |
-| 16:30-16:45 | Oral abstract | [Rory Welsh](https://www.twitter.com/RoryMWelsh) | Genomic analysis from each of the four major Candida auris clades reveal chromosomal rearrangements and loss of subtelomeric adhesins in Clade II |
-| 16:45-17:00 | Oral abstract | [Hannah-Marie Martiny](https://www.twitter.com/hm_martiny) | Digging Deep for AMR: Monitoring Antimicrobial Resistance in 100k Host and Environmental Metagenomes |
-
-## Thursday, December 10, 2020 <a id="thursday" />
-
-### Pipe Dreams: Analytical Methods, Bioinformatics Tools and Pipelines (08:30h-10:15h GMT-5)
-
-> Recent technology advances have made whole-genome sequencing and other sequencing-based assays ubiquitous in modern microbiology. However, this shift in techniques is generating huge volumes of data that require computational analysis. This session covers new analytical methods and bioinformatics tools designed to surf the growing wave of genomic data.
-
-| Time | Speaker | Affiliation | Title |
-| ------| --- | ---| ----|
-| 08:30-09:00 | [Aine O'Toole](https://www.twitter.com/AineToole) | University of Edinburgh | [200,001: A tree-space odyssey. Pandemic phylogenetics and reporting in 2020](https://www2.slideshare.net/ineNiamhOToole/american-society-for-microbiology-ngs-2020-aine-otoole) |
-| 09:00-09:30 | Yiming Bao | Beijing Institite of Genomics | TBD |
-||
-| 09:30-09:45 | Oral abstract | [Sam Nicholls](https://www.twitter.com/samstudio8) (UBirmingham) | MAJORA: Continuous integration supporting decentralised sequencing for SARS-CoV-2 genomic surveillance |
-| 09:45-10:00 | Oral abstract | [Francoise Thibaud-Nissen](https://www.twitter.com/ncbi) (NCBI) | Accelerate your research with RAPT, an assembly and gene annotation pipeline |
-| 10:00-10:15 | Oral abstract | Derya Aytan-Atkug (DTU) | Predicting Antimicrobial Resistance Using Globally Aligned Partial Genomes |
-
-### Featured Posters (10:30h-11:30h GMT-5)
-| Time (GMT-5) | Speaker | Affiliation | Title |
-| ------| --- | ---| ----|
-| TBD | Featured Poster | [Emma Griffiths](https://www.twitter.com/griffiemma) (UBC) | The DataHarmonizer: A fast, secure application for the harmonization of SARS-CoV-2 contextual data |
-| TBD | Featured Poster | Mohammed Khalfan (NYU) | MAD: A Pipeline for Evaluating Minor Allele Detection Tools |
-| TBD | Featured Poster | [Daria van Tyne](https://www.twitter.com/dariavantyne) (UPitt) | Whole-genome sequencing surveillance to study the epidemiology of vancomycin-resistant enterococci at a tertiary care hospital over three years |
-| TBD | Featured Poster | Sandra Montano-Salazar (UNColombia) | The microbiome as evolutionary trait of octocorals |
-| TBD | Featured Poster | [Tryna Tania](https://www.twitter.com/tryna_tania) (UIndonesia) | Whole genome sequencing analysis of multi-drug resistantMycobacterium tuberculosisfrom Java, Indonesia |
 
 ### NETWORKING AND SOCIAL (15:30h-17:00h GMT-5)
 
