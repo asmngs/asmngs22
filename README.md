@@ -42,21 +42,6 @@ If you need to get in touch with the organizers at any time, you have multiple o
 
 
 
-### NETWORKING AND SOCIAL (15:30h-17:00h GMT-5)
-
-## Friday, December 11, 2020 <a id="friday" />
-
-### Closing Plenary (10:00h-11:45h GMT-5)
-
-| Time (GMT-5) | Speaker | Affiliation | Title |
-| ------| --- | ---| ----|
-| 10:00-1030h | Sofonias Tessema | Africa CDC | The AfricaCDC Pathogen Genomics Initiative |
-||
-| 10:50-11:30 | [Kim Pruitt](https://www.twitter.com/kdpru) (NCBI), [Guy Cochrane](https://www.twitter.com/guycochrane) (EBI), Takashi Gojoburi (DDBJ), Yiming Bao (BIG) - *Moderated by David Lipman (Founding Director, NCBI)* | NCBI, EBI, DDBJ and BIG	 | **PANEL DISCUSSION:** Open pathogen sequence data sharing and collaboration in public health, lessons from COVID-19 and directions for the future |
-||
-| 11:30-11:45 | Planning Committee | Planning Committee | Closing comments. |
-
-
 # 3. Code of Conduct <a id="three" />
 ASM and the ASMNGS team is committed to providing an environment that encourages the free expression and exchange of scientific ideas and promotes equal opportunities and respectful treatment for all participants. All participants are expected to treat others with respect and consideration, follow venue rules, and alert ASM staff or security of any dangerous situations or anyone in distress.
 
@@ -83,35 +68,18 @@ ASM will accept and investigate all complaints of harassment and investigations 
 **Thank you for helping to make this a welcoming, friendly space for all!**
 
 # 4. Live Notes <a id="four" />
-Live notes have been an important ASM NGS for the past several meetings. For ASMNGS17 and 18, we used Mozilla's EtherPad platform, and unfortunately, I suspect that the notes were lost when Mozilla shuttered the platform in 2018. This time, we'll try Google Docs.  The link to the ASMNGS20 collaborative live notes doc is right [HERE](https://docs.google.com/document/d/1l-661diBpJLinWP7Xyb8Jzc-qUvd54ddqARtz7KaJKs/edit?usp=sharing). I have no idea how well this will work in an asynchronous virtual conference, but jump in and start contributing if you want to!
-> [ASMNGS20 LIVE NOTES - GOOGLE DOC](https://docs.google.com/document/d/1l-661diBpJLinWP7Xyb8Jzc-qUvd54ddqARtz7KaJKs/edit?usp=sharing).
+Live notes have been an important ASM NGS for the past several meetings. ASM2022 link to follow. 
 
-**Update:** Thanks to [Matt Croxen](https://www.twitter.com/m_croxen) for finding a PDF archive of the [ASM2017 live notes](https://github.com/asmngs/asmngs20/blob/master/asmngs17.pdf)!
+> ASM2020 live lotes: [ASMNGS20 LIVE NOTES - GOOGLE DOC](https://docs.google.com/document/d/1l-661diBpJLinWP7Xyb8Jzc-qUvd54ddqARtz7KaJKs/edit?usp=sharing).
+> ASM2017 live notes: [ASM2017 live notes](https://github.com/asmngs/asmngs20/blob/master/asmngs17.pdf)
+
 
 # 5. NCBI Preconference Workshop <a id="five" />
-## December 7th, 2020 - 0900h-1300h GMT-5
-The National Center for Biotechnology Information ([NCBI](https://www.ncbi.nlm.nih.gov)) is hosting a virtual workshop entitled: "**Introduction to NCBI Pathogen Detection and Google Cloud-Based Resources for Pathogen NGS Analysis**".  If interested in participating, please contact [Bill Klimke](mailto:klimke@ncbi.nlm.nih.gov) by November 20th, 2020. More information can) be found in the PDF announcement linked [here](https://github.com/asmngs/asmngs20/blob/master/PD-Briefdescription-131120-1503-38.pdf).
+## TBD and/or in planning
 
-**REGISTRATION IS CLOSED - THANKS FOR YOUR INTEREST**.
 
 # 6. ASM NGS Hackathon <a id="six" />
-## December 2-4, 2020 (0900-1200h GMT-5 all three days)
-This year, [Boas van der Putten](https://twitter.com/boasvdputten) and [Lee Katz](https://www.twitter.com/lskatz) are organizing what looks to be a wonderful ASM NGS Hackathon.
-
-This year's objective is unit testing.  Participants will learn by experience: unit testing, continuous integration, GitHub Actions, and everything else that goes with git.
-
-In other words, each team will take on the task of choosing a bioinformatics software package, testing it in a standardized way, and reporting back to the group.  A finished unit test will be represented by a shiny green badge on our site, indicating that the software works (or a red badge of shame if it doesn't).  If successful, the site will serve as a certification that any given bioinformatics software works (or doesn't).
-
-If interested in participating, please sign up here: https://forms.gle/rSSkQZv3pZXEAh3a7!  
-
-After signing up, please form teams via pull requests here: https://github.com/microbinfie-hackathon2020/CSIS/blob/main/TEAMS.md.
-
-More information and the hackathon base of operations can be found here: https://github.com/microbinfie-hackathon2020/CSIS
-
-### INCREDIBLE WORK ON THE HACKATHON THIS YEAR!
-> Four teams developed unit tests and validation for common bioinformatic tools and workflows. *Team Chewbbaca*, *Team SARS-CoV-2*, *Team All-The-Krakens* and *Team Assembly* brought together dozens of beautiful nerds from across four (five?) continents! Running the hackathon was a learning experience, and all four teams made some really amazing hacks!
-
-**CONGRATULATIONS TO ALL THAT PARTICIPATED, AND WE HOPE THAT THE HACKING CONTINUES ON!**
+## TBD and/or in planning
 
 # 7. About ASMNGS <a id="seven" />
 ASMNGS began in 2015 (if you're feeling nostalgic, the program is available [here](https://www.asm.org/images/ngsfinalprogram.pdf)), organized by Dag Harmsen (University of Muenster), Marc Allard (FDA), and Eric Brown (FDA). In 2017, the program committee was co-chaired by Dag and Jennifer Gardy (BCCDC), and also included Marc, Eric, and new committee members Elodie Ghedin (NYU),  Paul Keim (TGen), Duncan MacCannell (CDC), Adam Phillippy (NHGRI). In order to both coincide with the GenomeTrakr annual meeting and to not conflict with ABPHM, the committee decided to move the meeting to even years beginning in 2018. Also in 2018, Ruth Timme (FDA) replaced Eric Brown on the organizing committee and the 2020 planning committee grew to include George Gthinji, Torsten Seemann, and Sofonias Tessema.
@@ -124,37 +92,23 @@ We are grateful to all of our corporate [sponsors](https://asm.org/Events/ASM-NG
 
 ## Program Committee
 
-**[Duncan MacCannell](https://www.twitter.com/dmaccannell)** - Chair,
-*Centers for Disease Control and Preventio*n, Atlanta
-
-**[Ruth Timme](https://www.twitter.com/doctorruth)** - Co-Chair,
+**[Ruth Timme](https://www.twitter.com/doctorruth)** - Chair
 *U.S. Food and Drug Administration*, College Park
 
-**Marc Allard**
-*U.S. Food and Drug Administration*, College Park
-
-**[Jennifer Gardy](https://www.twitter.com/jennifergardy)**
-*Bill and Melinda Gates Foundation*, Seattle
-
-**[Elodie Ghedin](https://www.twitter.com/eghedin)**
+**[Elodie Ghedin](https://www.twitter.com/eghedin)** - Co-chair
 *National Human Genome Research Institute*, Bethesda
+
+**[Duncan MacCannell](https://www.twitter.com/dmaccannell)**
+*Centers for Disease Control and Preventio*n, Atlanta
 
 **[George Gthinji](https://www.twitter.com/george_l)**
 *KEMRI/Wellcome Trust*, Nairobi, Kenya
-
-**Dag Harmsen**
-*University of Muenster*, Muenster, Germany
-
-**[Paul Keim](https://www.twitter.com/paulkeim)**
-*Northern Arizona University*,Flagstaff
-
-**[Adam Phillippy](https://www.twitter.com/aphillippy)**
-*National Institutes of Health*,
-Bethesda
 
 **[Torsten Seemann](https://www.twitter.com/torstenseemann)**
 *University of Melbourne*, Melbourne, Australia
 
 **[Sofonias Tessema](https://www.twitter.com/sofoniaskt)**
 *Africa CDC*, Addis Ababa, Ethiopia
+
+
 
