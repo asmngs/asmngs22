@@ -93,13 +93,13 @@ We are grateful to all of our corporate [sponsors](https://asm.org/Events/ASM-NG
 ## Program Committee
 
 **[Ruth Timme](https://www.twitter.com/doctorruth)** - Chair,
-*U.S. Food and Drug Administration*, College Park
+*U.S. Food and Drug Administration*, College Park, MD
 
 **[Elodie Ghedin](https://www.twitter.com/eghedin)** - Co-chair,
-*National Human Genome Research Institute*, Bethesda
+*National Human Genome Research Institute*, Bethesda, MD
 
 **[Duncan MacCannell](https://www.twitter.com/dmaccannell)** -
-*Centers for Disease Control and Preventio*n, Atlanta
+*Centers for Disease Control and Preventio*n, Atlanta, GA
 
 **[George Gthinji](https://www.twitter.com/george_l)** -
 *KEMRI/Wellcome Trust*, Nairobi, Kenya
@@ -111,13 +111,13 @@ We are grateful to all of our corporate [sponsors](https://asm.org/Events/ASM-NG
 *Africa CDC*, Addis Ababa, Ethiopia
 
 **[Jasna Kovac](https://www.twitter.com/jasna_kovac)** -
-*Penn State University, Pennsylvania
+_Penn State University_, State College, PA
 
 **[Julie Dunning](https://www.twitter.com/DunningHotopp)** -
 _IGS, University of Maryland, School of Medicine_, Baltimore, MD
 
-**[Todd Treangen](https://www.twitter.com/DunningHotopp)** -
-_IGS, University of Maryland, School of Medicine_, Baltimore, MD
+**[Todd Treangen](https://www.twitter.com/traingene)** -
+_Rice University_ Houston, TX
 
 
 
