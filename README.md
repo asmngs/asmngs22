@@ -3,11 +3,11 @@
 ### October 16-19, 2022. Baltimore, MD.
 
 1. [Important Information](#one)
-2. [Schedule & Presentations](#two) [[monday](#monday)|[tuesday](#tuesday)|[wednesday](#wednesday)|[thursday](#thursday)|[friday](#friday)]
+2. [Schedule & Presentations](#two) [[sunday][#sunday]|[monday](#monday)|[tuesday](#tuesday)|[wednesday](#wednesday)]
 3. [Code of Conduct](#three)
 4. [Live Notes](#four)
-5. [**NCBI Preconference Workshop**](#five)
-6. [**ASM NGS Hackathon**](#six)
+5. [**NCBI Preconference Workshop - TBD**](#five)
+6. [**ASM NGS Hackathon - TBD**](#six)
 7. [About ASMNGS](#seven)
 
 # 1. Important Information <a id="one" />
@@ -24,20 +24,14 @@ If you need to get in touch with the organizers at any time, you have multiple o
 
 Our default **social media policy** is that *anything said by a speaker is fair game for tweeting and live note-taking unless the speaker states otherwise*. We encourage speakers to indicate which slides, if any, should not be tweeted about or noted in the online notes. If you are planning to tweet about a poster, please ask permission of the poster presenter first.
 
-## Monday, December 7, 2020 <a id="monday" />
-### Opening Plenary (15:30h-17:00h GMT-5)
+## Sunday, October 16, 2022 <a id="sunday" />
+### Opening Plenary and reception (17:00h-21:00h GMT-5)
 
-| Time (GMT-5) | Speaker | Affiliation | Title |
-| ------| --- | ---| ----|
-| 15:30-15:40 | [Duncan MacCannell](https://www.twitter.com/dmaccannell) & [Ruth Timme](https://www.twitter.com/doctorruth) | Program Committee | Welcome to ASMNGS 2020 |
-| 15:40-15:50 | [Victor DiRita](https://www.twitter.com/VictorDiRita) | American Society for Microbiology | Welcome on Behalf of ASM |
-||
-| 15:50-16:50 | [Trevor Bedford](https://www.twitter.com/trvrb), [Bronwyn MacInnis](https://www.twitter.com/bronwynmacinnis), [Yonatan Grad](https://www.twitter.com/yhgrad) - *Moderated by [Jennifer Gardy](https://www.twitter.com/jennifergardy)* | Fred Hutch, Broad Institute, Harvard University	 | **OPENING PANEL DISCUSSION:** Navigating high-profile investigations and activities in the time of COVID-19 |
-||
-| 16:50-17:00 | Planning Committee | Planning Committee | Thanks, closing and logistics for the week. |
-
-## Tuesday, December 8, 2020 <a id="tuesday" />
-### Epidemiological Cues: NGS in Clinical and Public Health Microbiology (10:00h-11:45h GMT-5)
+## Monday, October 17, 2022 <a id="monday" />
+### Two sessions
+#### Epidemiological Cues: NGS in Clinical and Public Health Microbiology
+#### Bridging Silos: Exploring mechanisms for collecting and sharing microbial genomic data to foster interoperability
+### Poster session (evening)
 
 > Genomic sequencing and molecular epidemiology are indispensable tools for clinical reference diagnostics, public health surveillance outbreak detection and response.  This session will discuss how sequencing is being used in clinical and public health microbiology, and the challenges and successes in implementing these technologies successfully in routine and standard practice.
 
