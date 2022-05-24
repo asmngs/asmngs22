@@ -22,23 +22,23 @@ If you need to get in touch with the organizers at any time, you have multiple o
 # 2. Tenative Schedule<a id="two" />
 
 ## Sunday, October 16, 2022 <a id="sunday" />
-### Opening Plenary and reception (17:00h-21:00h GMT-5)
+### Opening Plenary and reception (evening)
 
 ## Monday, October 17, 2022 <a id="monday" />
 ### Two sessions
-#### >Epidemiological Cues: NGS in Clinical and Public Health Microbiology
-#### >Bridging Silos: Exploring mechanisms for collecting and sharing microbial genomic data to foster interoperability
+#### -  Epidemiological Cues: NGS in Clinical and Public Health Microbiology
+#### -  Bridging Silos: Exploring mechanisms for collecting and sharing microbial genomic data to foster interoperability
 ### Poster session (evening)
 
 ## Tuesday, October 18, 2020 <a id="tuesday" />
 ### Two sessions
-#### >Secret Ingredient: NGS to Uncover the Role of Microbes in Agricultural and Food Systems
-#### >Microbial Chatter: Microbial ecology in health and disease
+#### -  Secret Ingredient: NGS to Uncover the Role of Microbes in Agricultural and Food Systems
+#### -  Microbial Chatter: Microbial ecology in health and disease
 ### Poster session (evening)
 
 ## Wednesday, October 19, 2020 <a id="wednesday" />
 ### One session
-#### >Pipe Dreams: Analytical Methods, Bioinformatic Tools and Pipelines
+#### -  Pipe Dreams: Analytical Methods, Bioinformatic Tools and Pipelines
 
 
 
@@ -68,10 +68,10 @@ ASM will accept and investigate all complaints of harassment and investigations 
 **Thank you for helping to make this a welcoming, friendly space for all!**
 
 # 4. Live Notes <a id="four" />
-Live notes have been an important ASM NGS for the past several meetings. ASM2022 link to follow. 
+We will continue the tradition of collecting live notes during the meeting. Past meeting notes included below:
 
-> ASM2020 live lotes: [ASMNGS20 LIVE NOTES - GOOGLE DOC](https://docs.google.com/document/d/1l-661diBpJLinWP7Xyb8Jzc-qUvd54ddqARtz7KaJKs/edit?usp=sharing).
-> ASM2017 live notes: [ASM2017 live notes](https://github.com/asmngs/asmngs20/blob/master/asmngs17.pdf)
+- [ASMNGS 2020 google docs](https://docs.google.com/document/d/1l-661diBpJLinWP7Xyb8Jzc-qUvd54ddqARtz7KaJKs/edit?usp=sharing).
+- [ASMNGS 2017 PDF](https://github.com/asmngs/asmngs20/blob/master/asmngs17.pdf)
 
 
 # 5. NCBI Preconference Workshop <a id="five" />
@@ -92,23 +92,32 @@ We are grateful to all of our corporate [sponsors](https://asm.org/Events/ASM-NG
 
 ## Program Committee
 
-**[Ruth Timme](https://www.twitter.com/doctorruth)** - Chair
+**[Ruth Timme](https://www.twitter.com/doctorruth)** - Chair,
 *U.S. Food and Drug Administration*, College Park
 
-**[Elodie Ghedin](https://www.twitter.com/eghedin)** - Co-chair
+**[Elodie Ghedin](https://www.twitter.com/eghedin)** - Co-chair,
 *National Human Genome Research Institute*, Bethesda
 
-**[Duncan MacCannell](https://www.twitter.com/dmaccannell)**
+**[Duncan MacCannell](https://www.twitter.com/dmaccannell)** -
 *Centers for Disease Control and Preventio*n, Atlanta
 
-**[George Gthinji](https://www.twitter.com/george_l)**
+**[George Gthinji](https://www.twitter.com/george_l)** -
 *KEMRI/Wellcome Trust*, Nairobi, Kenya
 
-**[Torsten Seemann](https://www.twitter.com/torstenseemann)**
+**[Torsten Seemann](https://www.twitter.com/torstenseemann)** -
 *University of Melbourne*, Melbourne, Australia
 
-**[Sofonias Tessema](https://www.twitter.com/sofoniaskt)**
+**[Sofonias Tessema](https://www.twitter.com/sofoniaskt)** -
 *Africa CDC*, Addis Ababa, Ethiopia
+
+**[Jasna Kovac](https://www.twitter.com/jasna_kovac)** -
+*Penn State University, Pennsylvania
+
+**[Julie Dunning](https://www.twitter.com/DunningHotopp)** -
+_IGS, University of Maryland, School of Medicine_, Baltimore, MD
+
+**[Todd Treangen](https://www.twitter.com/DunningHotopp)** -
+_IGS, University of Maryland, School of Medicine_, Baltimore, MD
 
 
 
