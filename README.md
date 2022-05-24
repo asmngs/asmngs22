@@ -96,7 +96,7 @@ We are grateful to all of our corporate [sponsors](https://asm.org/Events/ASM-NG
 *U.S. Food and Drug Administration*, College Park, MD
 
 **[Elodie Ghedin](https://www.twitter.com/eghedin)** - Co-chair,
-*National Human Genome Research Institute*, Bethesda, MD
+*National Institute of Allergy and Infectious Diseases*, Bethesda, MD
 
 **[Duncan MacCannell](https://www.twitter.com/dmaccannell)** -
 *Centers for Disease Control and Preventio*n, Atlanta, GA
