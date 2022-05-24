@@ -113,7 +113,7 @@ We are grateful to all of our corporate [sponsors](https://asm.org/Events/ASM-NG
 **[Jasna Kovac](https://www.twitter.com/jasna_kovac)** -
 _Penn State University_, State College, PA
 
-**[Julie Dunning](https://www.twitter.com/DunningHotopp)** -
+**[Julie Dunning Hotopp](https://www.twitter.com/DunningHotopp)** -
 _IGS, University of Maryland, School of Medicine_, Baltimore, MD
 
 **[Todd Treangen](https://www.twitter.com/traingene)** -
