@@ -26,19 +26,19 @@ If you need to get in touch with the organizers at any time, you have multiple o
 
 ## Monday, October 17, 2022 <a id="monday" />
 ### Two sessions
-#### Epidemiological Cues: NGS in Clinical and Public Health Microbiology
-#### Bridging Silos: Exploring mechanisms for collecting and sharing microbial genomic data to foster interoperability
+#### >Epidemiological Cues: NGS in Clinical and Public Health Microbiology
+#### >Bridging Silos: Exploring mechanisms for collecting and sharing microbial genomic data to foster interoperability
 ### Poster session (evening)
 
 ## Tuesday, October 18, 2020 <a id="tuesday" />
 ### Two sessions
-#### Secret Ingredient: NGS to Uncover the Role of Microbes in Agricultural and Food Systems
-#### Microbial Chatter: Microbial ecology in health and disease
+#### >Secret Ingredient: NGS to Uncover the Role of Microbes in Agricultural and Food Systems
+#### >Microbial Chatter: Microbial ecology in health and disease
 ### Poster session (evening)
 
 ## Wednesday, October 19, 2020 <a id="wednesday" />
 ### One session
-#### Pipe Dreams: Analytical Methods, Bioinformatic Tools and Pipelines
+#### >Pipe Dreams: Analytical Methods, Bioinformatic Tools and Pipelines
 
 
 
