@@ -1,9 +1,9 @@
-# ASM NGS 2022 Meeting
+# ASMNGS 2022 Meeting
 ### 5th ASM Conference on Rapid Applied Microbial Next-Generation Sequencing and Bioinformatic Pipelines (#ASMNGS)
 ### October 16-19, 2022. Baltimore, MD.
 
 1. [Important Information](#one)
-2. [Schedule & Presentations](#two) [[sunday][#sunday]|[monday](#monday)|[tuesday](#tuesday)|[wednesday](#wednesday)]
+2. [Schedule & Presentations](#two) 
 3. [Code of Conduct](#three)
 4. [Live Notes](#four)
 5. [**NCBI Preconference Workshop - TBD**](#five)
