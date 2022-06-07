@@ -11,11 +11,17 @@
 7. [About ASMNGS](#seven)
 
 # 1. Important Information <a id="one" />
-Welcome to ASM NGS 2022! We are back with an in-person meeting this year. 
+Welcome to ASMNGS 2022! We are back with an in-person meeting this year. 
 
 As in years past, we're trying to make this conference as **open, accessible, and user-friendly** as possible in the interest of open science. This repo will store slides, posters, and notes from the conference from those participants who are up for sharing their material, and it will also serve as another mechanism to receive realtime feedback in the form of issues (check [this out](https://help.github.com/articles/creating-an-issue/) if you're unsure how to create an issue).
 
 The [conference website](https://www.asm.org/Events/ASM-NGS/Home) contains all sorts of useful information, and if you're tweeting, gramming, tiktoking, or whatever, please use the hashtag **[#ASMNGS](https://www.twitter.com/search?q=%23ASMNGS&src=typed_query)**. You can tag **[@ASMicrobiology](https://www.twitter.com/ASMicrobiology)** too.
+
+The ASMNGS abstract submisison window will be open between June 2nd -> July 23rd, 2022.
+
+- Abstract submission site: https://asm.org/Events/ASM-NGS/Home
+- Early abstract submission deadline: June 23, 2022 at 12pm EST.
+- Final abstract submission deadline: July 23rd, 2022 at 12pm EST.
 
 If you need to get in touch with the organizers at any time, you have multiple options. You can tweet at or email this year's meeting chairs – **Ruth Timme ([twitter](http://www.twitter.com/doctorruth) | [email](mailto:ruth.timme@fda.hhs.gov)) and Elodie Ghedin ([twitter](http://www.twitter.com/@eghedin) | [email](mailto:elodie.ghedin@nih.gov)).**  You can also open a new issue in this repo, or you can contact the wonderful ASM Conferences team through the meeting website.
 
