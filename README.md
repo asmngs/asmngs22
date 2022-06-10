@@ -6,8 +6,8 @@
 2. [Schedule & Presentations](#two) 
 3. [Code of Conduct](#three)
 4. [Live Notes](#four)
-5. [**NCBI Preconference Workshop - TBD**](#five)
-6. [**ASMNGS Hackathon - TBD**](#six)
+5. [NCBI Preconference Workshop - TBD](#five)
+6. [ASMNGS Hackathon](#six)
 7. [About ASMNGS](#seven)
 
 # 1. Important Information <a id="one" />
@@ -83,8 +83,8 @@ We will continue the tradition of collecting live notes during the meeting. Past
 # 5. NCBI Preconference Workshop <a id="five" />
 ## TBD
 
-# 6. ASM NGS Hackathon <a id="six" />
-## Details coming soon
+# 6. ASMNGS Hackathon <a id="six" />
+2022 hackathon under planing now. It will tenatively be held Sat/Sun prior to the start of the meeting (Oct 15/16th). Check back for more details - we'll post here as the plans firm up.
 
 # 7. About ASMNGS <a id="seven" />
 ASMNGS began in 2015 (if you're feeling nostalgic, the program is available [here](https://www.asm.org/images/ngsfinalprogram.pdf)), organized by Dag Harmsen (University of Muenster), Marc Allard (FDA), and Eric Brown (FDA). In 2017, the program committee was co-chaired by Dag and Jennifer Gardy (BCCDC), and also included Marc, Eric, and new committee members Elodie Ghedin (NYU),  Paul Keim (TGen), Duncan MacCannell (CDC), Adam Phillippy (NHGRI). In order to both coincide with the GenomeTrakr annual meeting and to not conflict with ABPHM, the committee decided to move the meeting to even years beginning in 2018. Also in 2018, Ruth Timme (FDA) replaced Eric Brown on the organizing committee and the 2020 planning committee grew to include George Gthinji, Torsten Seemann, and Sofonias Tessema.
