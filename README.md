@@ -17,6 +17,8 @@ As in years past, we're trying to make this conference as **open, accessible, an
 
 The [conference website](https://www.asm.org/Events/ASM-NGS/Home) contains all sorts of useful information, and if you're tweeting, gramming, tiktoking, or whatever, please use the hashtag **[#ASMNGS](https://www.twitter.com/search?q=%23ASMNGS&src=typed_query)**. You can tag **[@ASMicrobiology](https://www.twitter.com/ASMicrobiology)** too.
 
+Hotel: [Sheraton Inner Harbor Hotel, Baltimore MD](https://www.marriott.com/en-us/hotels/bwiis-sheraton-inner-harbor-hotel/overview/)
+
 The ASMNGS abstract submisison window will be open between June 2nd -> July 23rd, 2022.
 
 - Abstract submission site: https://asm.org/Events/ASM-NGS/Home
