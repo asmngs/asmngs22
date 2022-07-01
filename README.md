@@ -22,7 +22,7 @@ Hotel: [Sheraton Inner Harbor Hotel, Baltimore MD](https://www.marriott.com/en-u
 The ASMNGS abstract submisison window will be open between June 2nd -> July 23rd, 2022.
 
 - Abstract submission site: https://asm.org/Events/ASM-NGS/Home
-- Early abstract submission deadline: June 23, 2022 at 12pm EST.
+- <PASSED> Early abstract submission deadline: June 23, 2022 at 12pm EST.
 - Final abstract submission deadline: July 23rd, 2022 at 12pm EST.
 
 If you need to get in touch with the organizers at any time, you have multiple options. You can tweet at or email this year's meeting chairs – **Ruth Timme ([twitter](http://www.twitter.com/doctorruth) | [email](mailto:ruth.timme@fda.hhs.gov)) and Elodie Ghedin ([twitter](http://www.twitter.com/@eghedin) | [email](mailto:elodie.ghedin@nih.gov)).**  You can also open a new issue in this repo, or you can contact the wonderful ASM Conferences team through the meeting website.
@@ -125,6 +125,9 @@ _IGS, University of Maryland, School of Medicine_, Baltimore, MD
 
 **[Todd Treangen](https://www.twitter.com/traingene)** -
 _Rice University_ Houston, TX
+
+**Arjun Prasad** -
+_NCBI_, Bethesda, MD
 
 
 
