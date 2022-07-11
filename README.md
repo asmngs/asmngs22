@@ -19,17 +19,21 @@ The [conference website](https://www.asm.org/Events/ASM-NGS/Home) contains all s
 
 Hotel: [Sheraton Inner Harbor Hotel, Baltimore MD](https://www.marriott.com/en-us/hotels/bwiis-sheraton-inner-harbor-hotel/overview/)
 
-The ASMNGS abstract submisison window will be open between June 2nd -> July 23rd, 2022.
+The ASMNGS abstract submisison window will be open between June 2nd -> July 20th, 2022.
 
 - Abstract submission site: https://asm.org/Events/ASM-NGS/Home
 - <PASSED> Early abstract submission deadline: June 23, 2022 at 12pm EST.
-- Final abstract submission deadline: July 23rd, 2022 at 12pm EST.
+- Final abstract submission deadline: July 20th, 2022 at 12pm EST.
 
 If you need to get in touch with the organizers at any time, you have multiple options. You can tweet at or email this year's meeting chairs – **Ruth Timme ([twitter](http://www.twitter.com/doctorruth) | [email](mailto:ruth.timme@fda.hhs.gov)) and Elodie Ghedin ([twitter](http://www.twitter.com/@eghedin) | [email](mailto:elodie.ghedin@nih.gov)).**  You can also open a new issue in this repo, or you can contact the wonderful ASM Conferences team through the meeting website.
 
 # 2. Tenative Schedule<a id="two" />
 
+## Saturday/Sunday, October 15-16th, 2022 <a id="Sat/Sun" />
+### ASMNGS Hackathon
+
 ## Sunday, October 16, 2022 <a id="sunday" />
+### NCBI pre-conference workshop (day)
 ### Opening Plenary and reception (evening)
 
 ## Monday, October 17, 2022 <a id="monday" />
