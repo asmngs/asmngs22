@@ -23,7 +23,7 @@ The ASMNGS abstract submisison window will be open between June 2nd -> July 20th
 
 - Abstract submission site: https://asm.org/Events/ASM-NGS/Home
 - <PASSED> Early abstract submission deadline: June 23, 2022 at 12pm EST.
-- Final abstract submission deadline: July 20th, 2022 at 12pm EST.
+- Final abstract submission deadline: extended to **July 28th** at 12pm EST.
 
 If you need to get in touch with the organizers at any time, you have multiple options. You can tweet at or email this year's meeting chairs – **Ruth Timme ([twitter](http://www.twitter.com/doctorruth) | [email](mailto:ruth.timme@fda.hhs.gov)) and Elodie Ghedin ([twitter](http://www.twitter.com/@eghedin) | [email](mailto:elodie.ghedin@nih.gov)).**  You can also open a new issue in this repo, or you can contact the wonderful ASM Conferences team through the meeting website.
 
